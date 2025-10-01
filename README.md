@@ -58,3 +58,7 @@ Colegio/
 
 Proyecto desarrollado como tarea académica, hecho con mucho amor de parte de:
   Jose Miguel Rios Montoya.
+
+  ## ¿Preguntas y Contacto?
+
+Correo: jomirimo09@hotmail.com
